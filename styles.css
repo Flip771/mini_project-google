@@ -281,7 +281,9 @@ margin-right:170px;
 }
 .mine{
     text-decoration: none;
+    color:#70757a;
 }
+.mine:visited {color:#70757a;} /* Visited link    */
 
 
 
